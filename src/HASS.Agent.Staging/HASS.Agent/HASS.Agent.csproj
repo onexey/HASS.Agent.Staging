@@ -9,7 +9,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <AssemblyName>HASS.Agent</AssemblyName>
     <ApplicationIcon>hassagent.ico</ApplicationIcon>
-    <PlatformTarget>x64</PlatformTarget>
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <Platforms>AnyCPU;x64</Platforms>
     <DebugType>full</DebugType>
     <Version>2022.13.0-beta4</Version>
